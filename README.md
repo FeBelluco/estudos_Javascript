@@ -1,5 +1,6 @@
-Introdução ao Javascript
-Projetos referentes ao curso "Introdução ao Javascript" que ministrei pela Digital Innovation One.
+# Introdução ao Javascript
 
-To-do List;
-Contador;
+Projetos referentes ao curso "Introdução ao Javascript" [Digital Innovation One]
+
+- To-do List
+- Contador
